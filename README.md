@@ -189,7 +189,7 @@ body{
 </div>
 
 <div class="polaroid reveal">
-    <img src="/d.png">
+    <img src="a1aa99c3-4fb9-47c7-833d-858c21a3e98e.png">
     <div class="caption">A picture full of love 💕</div>
 </div>
 
