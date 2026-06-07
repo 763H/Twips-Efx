@@ -174,7 +174,7 @@ body{
 <section class="gallery">
 
 <div class="polaroid reveal">
-    <img src="/g.png"> 
+    <img src="1fefaa63-6c6f-4f92-a8fb-acd965c36d31.png"> 
     <div class="caption">𝐀 smile that brightens every day ❤️</div>
 </div>
 
