@@ -248,7 +248,7 @@ reveal();
 
 </body>
 </html>    margin:auto;
-    margin-top:20px;
+    margin-topa4a037a9-fb8f-4289-8472-e1dc72170ff7.png20px;
     font-size:1.2rem;
     line-height:1.8;
 }
@@ -259,101 +259,6 @@ reveal();
     animation:float 6s linear infinite;
     opacity:.6;
 }
-
-@keyframes float{
-    from{
-        transform:translateY(100vh);
-    }
-    to{
-        transform:translateY(-100px);
-    }
-}
-
-@keyframes fadeIn{
-    from{
-        opacity:0;
-        transform:translateY(30px);
-    }
-    to{
-        opacity:1;
-        transform:translateY(0);
-    }
-}
-
-@keyframes bounce{
-    0%,100%{transform:translateY(0);}
-    50%{transform:translateY(10px);}
-}
-
-.reveal{
-    opacity:0;
-    transform:translateY(50px);
-    transition:1s;
-}
-
-.reveal.active{
-    opacity:1;
-    transform:translateY(0);
-}
-</style>
-</head>
-<body>
-
-<section class="hero">
-    <h1>🎂 Happy Birthday 𝐌𝐄𝐑𝐈𝐍 ❤️</h1>
-    <p>A small page filled with beautiful memories ✨</p>
-    <div class="scroll-text"> ↓ Scroll Down ↓ </div>
-</section>
-
-<section class="quote reveal">
-    𝗬𝗼𝘂'𝗿𝗲 𝗧𝗵𝗲 𝗠𝗼𝘀𝘁 𝗕𝗲𝗮𝘂𝘁𝗶𝗳𝘂𝗹 𝗣𝗲𝗿𝘀𝗼𝗻 𝗜 𝗞𝗻𝗼𝘄.
-    𝗜 𝗟𝗼𝘃𝗲 𝗬𝗼𝘂 𝗘𝗻𝗱𝗹𝗲𝘀𝘀𝗹𝘆 💕💞❤️‍🩹
-</section>
-
-<section class="gallery">
-
-<div class="polaroid reveal">
-    <img src="1fefaa63-6c6f-4f92-a8fb-acd965c36d31.png"> 
-    <div class="caption">𝐀 smile that brightens every day ❤️</div>
-</div>
-
-<div class="polaroid reveal">
-    <img src="7635134e-745e-4af1-9791-8d5482451870.png">
-    <div class="caption">Grace, beauty and kindness ✨</div>
-</div>
-
-<div class="polaroid reveal">
-    <img src="a4a037a9-fb8f-4289-8472-e1dc72170ff7.png">
-    <div class="caption">Every memory with you is special 🌸</div>
-</div>
-
-<div class="polaroid reveal">
-    <img src="a1aa99c3-4fb9-47c7-833d-858c21a3e98e.png">
-    <div class="caption">A picture full of love 💕</div>
-</div>
-
-<div class="polaroid reveal">
-    <img src="0b99d295-f53c-4980-b4b7-bae3c218a293-wm.png">
-    <div class="caption">Golden moments forever 📸</div>
-</div>
-
-<div class="polaroid reveal">
-    <img src="805a4b90-e4b1-40e4-911d-b4f124151d59.png">
-    <div class="caption">The most beautiful soul ❤️</div>
-</div>
-
-</section>
-
-<section class="final reveal">
-    <h2>Happy Birthday My Love ❤️</h2>
-    <p>
-        May your life be filled with happiness, laughter,
-        success and endless love. Thank you for being the
-        most wonderful person in my life. I wish you a day
-        as beautiful as your smile and a future filled with
-        every dream you hold close to your heart. 🎂✨💕
-    </p>
-</section>
 
 <script>
 
