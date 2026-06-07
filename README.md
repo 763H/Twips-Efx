@@ -194,7 +194,7 @@ body{
 </div>
 
 <div class="polaroid reveal">
-    <img src="/e.png">
+    <img src="e.png">
     <div class="caption">Golden moments forever 📸</div>
 </div>
 
