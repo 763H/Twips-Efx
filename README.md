@@ -184,7 +184,7 @@ body{
 </div>
 
 <div class="polaroid reveal">
-    <img src="/c.png">
+    <img src="a4a037a9-fb8f-4289-8472-e1dc72170ff7.png">
     <div class="caption">Every memory with you is special 🌸</div>
 </div>
 
